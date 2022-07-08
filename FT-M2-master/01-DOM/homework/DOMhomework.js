@@ -160,7 +160,7 @@ function completeToDo(event) {
 */
 // ********************************************** ----------- ********************************************** //
 
-
+//
 // Acá debes insertar la llamada a 'displayToDos'
 displayToDos();
 
