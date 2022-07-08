@@ -1,0 +1,12 @@
+Que es frameWork ? .- Es un marco de trabajo que tiene como objetivo
+    facilitar la solucion de problemas al programador, Los frameworks aceleran 
+    el proceso de programar facilitando tareas como la organización del código
+    o el trabajo en equipo dentro de un proyecto, por ejemplo.
+
+Que es Preprocesador ? .- Los frameworks aceleran el proceso de programar facilitando 
+    tareas como la organización del código o el trabajo en equipo dentro de un proyecto,
+    por ejemplo.
+
+Que es Responsive Website? .- A mi opinion el Responsive Website es acoplar mi pagina web 
+    a diferentes tipos de diapositivos, cambiando algunas posiciones de los elementos, o
+    cambiando de tamaño los textos etc.
